@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="maven-antrun-" default="main">
+  <target name="main">
+    <copy file="C:\Servers\jsf-ejb-jpa-primefaces-crud\target/jsf-ejb-jpa-primefaces-crud-1.0-SNAPSHOT.war" todir="C:\Servers\wildfly-34.0.0.Final\standalone\deployments" overwrite="true" />
+  </target>
+</project>

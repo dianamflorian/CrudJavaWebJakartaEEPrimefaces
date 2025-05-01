@@ -1,0 +1,9 @@
+AppWEb\repository\persistence\Repository.class
+AppWEb\model\entity\Usuario.class
+AppWEb\repository\persistence\CrudRepository.class
+AppWEb\model\entity\Usuario$UsuarioBuilder.class
+AppWEb\controller\UsuarioController.class
+AppWEb\service\impl\UsuarioServiceImpl.class
+AppWEb\service\IUsuarioService.class
+AppWEb\repository\UsuarioRepository.class
+AppWEb\model\entity\Usuario_.class
